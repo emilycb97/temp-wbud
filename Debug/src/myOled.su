@@ -1,0 +1,15 @@
+myOled.c:115:1:writeCommand	40	static
+myOled.c:153:1:writeData	40	static
+myOled.c:191:1:writeDataLen	184	static
+myOled.c:239:1:runInitSequence	8	static
+myOled.c:295:13:hLine	32	static
+myOled.c:327:13:vLine	32	static
+myOled.c:357:6:oled_init	16	static
+myOled.c:398:6:oled_putPixel	32	static
+myOled.c:460:6:oled_line	40	static
+myOled.c:563:6:oled_circle	64	static
+myOled.c:701:6:oled_rect	24	static
+myOled.c:722:6:oled_fillRect	32	static
+myOled.c:769:6:oled_clearScreen	24	static
+myOled.c:786:9:oled_putChar	32	static
+myOled.c:826:6:oled_putString	32	static

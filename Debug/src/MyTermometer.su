@@ -1,0 +1,16 @@
+MyTermometer.c:78:12:I2CRead	72	static
+MyTermometer.c:96:12:I2CWrite	72	static
+MyTermometer.c:115:16:readCommandReg	16	static
+MyTermometer.c:127:16:readControlReg	16	static
+MyTermometer.c:148:6:Mytemp_init	4	static
+MyTermometer.c:159:6:Mytemp_enable	16	static
+MyTermometer.c:178:10:Mytemp_read	16	static
+MyTermometer.c:205:6:Mytemp_setMode	24	static
+MyTermometer.c:229:6:Mytemp_setWidth	24	static
+MyTermometer.c:268:6:Mytemp_setRange	24	static
+MyTermometer.c:307:6:Mytemp_setHiThreshold	24	static
+MyTermometer.c:328:6:Mytemp_setLoThreshold	24	static
+MyTermometer.c:351:6:Mytemp_setIrqInCycles	24	static
+MyTermometer.c:375:9:Mytemp_getIrqStatus	16	static
+MyTermometer.c:388:6:Mytemp_clearIrqStatus	16	static
+MyTermometer.c:408:6:Mytemp_shutdown	16	static

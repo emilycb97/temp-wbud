@@ -1,0 +1,12 @@
+barometr.c:78:12:I2CRead	72	static
+barometr.c:96:12:I2CWrite	72	static
+barometr.c:115:16:readCommandReg	16	static
+barometr.c:127:16:readControlReg	16	static
+barometr.c:148:6:bar_init	4	static
+barometr.c:159:6:bar_enable	16	static
+barometr.c:179:10:bar_read	56	static
+barometr.c:309:6:bar_setHiThreshold	24	static
+barometr.c:330:6:bar_setLoThreshold	24	static
+barometr.c:363:9:bar_getIrqStatus	16	static
+barometr.c:376:6:bar_clearIrqStatus	16	static
+barometr.c:396:6:bar_shutdown	16	static

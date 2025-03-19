@@ -1,0 +1,7 @@
+myBarometr.c:11:6:bmp180_init	8	static
+myBarometr.c:17:12:I2CRead	72	static
+myBarometr.c:35:12:I2CWrite	72	static
+myBarometr.c:53:6:i2c_read_bytes	24	static
+myBarometr.c:64:6:bmp180_read_calib_data	32	static
+myBarometr.c:81:6:bmp180_read_temperature	32	static
+myBarometr.c:105:6:bmp180_read_pressure	40	static

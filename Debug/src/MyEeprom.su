@@ -1,0 +1,9 @@
+MyEeprom.c:6:6:EEPROM_Init	4	static
+MyEeprom.c:9:6:EEPROM_Write	80	dynamic
+MyEeprom.c:30:5:EEPROM_Read	88	dynamic
+MyEeprom.c:54:6:EEPROM_WriteUint32	24	static
+MyEeprom.c:64:5:EEPROM_ReadUint32	24	static
+MyEeprom.c:73:6:EEPROM_WriteLong	24	static
+MyEeprom.c:83:5:EEPROM_ReadLong	24	static
+MyEeprom.c:92:6:EEPROM_WriteVersion	16	static
+MyEeprom.c:97:5:EEPROM_VerifyVersion	16	static
